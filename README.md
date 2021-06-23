@@ -1,5 +1,5 @@
 # home-lib
-libraries in the home directory.
+Some libraries and modules in my home directory.
 
 # License
 
